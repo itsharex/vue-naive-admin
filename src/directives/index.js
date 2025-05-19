@@ -6,8 +6,8 @@
  * Copyright © 2023 Ronnie Zhang(大脸怪) | https://isme.top
  **********************************/
 
-import { router } from '@/router'
 import { withDirectives } from 'vue'
+import { router } from '@/router'
 
 const permission = {
   mounted(el, binding) {

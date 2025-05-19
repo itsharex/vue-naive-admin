@@ -101,9 +101,9 @@
 </template>
 
 <script setup>
+import { useStorage } from '@vueuse/core'
 import { useAuthStore } from '@/store'
 import { lStorage, throttle } from '@/utils'
-import { useStorage } from '@vueuse/core'
 import api from './api'
 
 const authStore = useAuthStore()
