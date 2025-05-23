@@ -220,7 +220,7 @@ const columns = [
   {
     title: '操作',
     key: 'actions',
-    width: 320,
+    width: 420,
     align: 'right',
     fixed: 'right',
     hideInExcel: true,
