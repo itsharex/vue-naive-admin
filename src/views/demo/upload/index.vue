@@ -62,11 +62,7 @@ defineOptions({ name: 'ImgUpload' })
 
 const { copy, copied } = useClipboard()
 
-const imgList = reactive([
-  { url: 'https://img.isme.top/isme/67208863145ef.jpg' },
-  { url: 'https://img.isme.top/isme/67208ab2a9de0.jpg' },
-  { url: 'https://img.isme.top/isme/67208ab4c6596.jpg' },
-])
+const imgList = reactive([])
 
 watch(copied, (val) => {
   if (val)
