@@ -250,7 +250,7 @@ const skillOption = {
   },
   series: [
     {
-      top: '12%',
+      bottom: '12%',
       type: 'pie',
       radius: ['35%', '90%'],
       avoidLabelOverlap: true,
