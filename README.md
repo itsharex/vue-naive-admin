@@ -5,6 +5,8 @@
 </p>
 <p align="center">
   <a href="./LICENSE"><img alt="MIT License" src="https://badgen.net/github/license/zclzone/vue-naive-admin"/></a>
+  <a href="https://gitcode.com/isme-admin/vue-naive-admin"><img alt="GitCode" src="https://gitcode.com/isme-admin/vue-naive-admin/star/badge.svg
+"/></a>
 </p>
 
 ---
