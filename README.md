@@ -57,6 +57,7 @@ Vue Naive Admin 提供一套后端代码，技术栈使用 Nestjs + TypeOrm + My
 
 - 源码-github: [isme-nest-serve | github](https://github.com/zclzone/isme-nest-serve)
 - 源码-gitee: [isme-nest-serve | gitee](https://gitee.com/isme-admin/isme-nest-serve)
+- 源码-gitcode: [isme-nest-serve | gitcode](https://gitcode.com/isme-admin/isme-nest-serve)
 
 ## 文档
 
